@@ -1,0 +1,40 @@
+.yoga_container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.yog{
+    width: 100%;
+    height: fit-content;
+    object-fit: cover;
+    object-position: center;
+    display: flex;
+    flex-grow: 1;
+}
+.history{
+    display: flex;
+    flex-direction: column;
+    gap: 2.9rem;
+}
+.history_title{
+    font-size: 3.0rem;
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+.history_txt {
+    font-size: 1.6rem;
+    padding: 50px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 300;
+}
+.class-time{
+display: flex;
+flex-wrap: wrap;
+font-size: 12px;
+font-weight: 300;
+gap:10px;
+}
+

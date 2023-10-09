@@ -1,0 +1,9 @@
+/* Globle Setting/Refrence */
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.view {padding-top: 70px ;
+  width: 100%;
+  height: auto;
+}

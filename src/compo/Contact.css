@@ -1,0 +1,44 @@
+.contact-hero {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: url("/public/image2.jpg");
+
+    /* Set a specific height */
+    width: 100%;
+    height: 120vh;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Place text in the middle of the image */
+.cont-hero{
+    padding: 30px 10%;
+    font-size: 2.6rem;
+    font-weight: 400;
+}
+.cont-p{
+    padding: 20px 10%;
+    font-size: 1.3rem;
+    line-height: 29px;
+    font-weight: 300;
+}
+.contact-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.contact-box > img {
+    width: 100px;
+    height: 120px;
+}
+.contact-box{
+    min-width: 250px;
+    max-width: 250px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -15,7 +15,7 @@ const Sidenav = () => {
         <img src="./logo.svg" className="logo" alt="website logo" />
         <ul className="ul">
           <div className={linkClassName}>
-            <a className="closebtn linkA" onClick={handleClick}>
+            <a href="" className="closebtn linkA" onClick={handleClick}>
               &times;
             </a>
             <Link className="linkA" to="/">

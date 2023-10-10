@@ -7,18 +7,20 @@ const About = () => {
       <div className="about_conatiner">
         <img src="./IMG_3565.JPG" className="about_image" alt="About_Image" />
         <div className="about">
-          <h1 className="about_title">
-            Anim labore sint cillum irure reprehenderit proident consectetur.
-          </h1>
+          <h1 className="about_title">About Us</h1>
           <p className="about_txt">
-            Sint ullamco elit irure minim ut tempor enim eu adipisicing deserunt
-            proident eu. Velit nostrud elit culpa aute consectetur irure non
-            anim ut deserunt tempor. Consequat fugiat elit consequat laboris.
-            Sint minim reprehenderit ipsum laboris labore cillum cupidatat velit
-            irure commodo aliqua magna. Tempor officia in eu irure ea. Laboris
-            consequat deserunt excepteur ut ullamco eiusmod non proident labore
-            laboris veniam voluptate in. Adipisicing eu pariatur voluptate elit
-            ipsum tempor nisi proident officia proident.
+            At Margdarshan Yoga, we are dedicated to bringing the transformative
+            power of yoga and meditation directly to your home. Our team of
+            experienced and passionate instructors is committed to making
+            holistic well-being accessible to everyone. Whether you prefer the
+            calming ambiance of meditation or the invigorating flow of yoga, our
+            personalized home classes cater to your unique needs and schedule.
+            We believe that fostering a consistent practice in the comfort of
+            your space enhances the mind-body connection. With a focus on
+            mindfulness and tailored sessions, we guide you on a journey to
+            physical vitality and inner peace. Join us at Margdarshan Yoga and
+            embark on a path to a healthier, more balanced life from the comfort
+            of your home.
           </p>
         </div>
       </div>
@@ -30,45 +32,36 @@ const About = () => {
             alt="Card_Image"
           />
           <div className="cardtxt">
-            <h1 className="card_h1">
-              Officia nulla aliquip consequat excepteur reprehenderit irure
-              culpa esse mollit adipisicing occaecat eu veniam.
-            </h1>
+            <h1 className="card_h1">Our Mission:</h1>
             <p className="card_p">
-              Enim irure ad tempor anim veniam non quis. Sit consequat mollit
-              culpa exercitation duis laborum ipsum esse duis labore mollit
-              voluptate sit exercitation. Ea proident dolor quis in est nulla
-              fugiat proident consectetur Lorem fugiat. Et eiusmod proident aute
-              velit aute consequat ex magna nisi nulla.
+              At Margdarshan Yoga, we are dedicated to bringing the
+              transformative power of yoga and meditation to the comfort of your
+              home. Our mission is to make holistic well-being accessible to
+              everyone. Through personalized home classes, we aim to nurture
+              physical strength, mental clarity, and spiritual harmony.
             </p>
           </div>
         </div>
         <div className="mission_card">
           <img src="./IMG_3482.JPG" className="mission_img" alt="Card_Image" />
-          <h1 className="card_h1">
-            Voluptate incididunt consectetur ullamco ipsum cillum culpa amet
-            reprehenderit ex enim nulla cupidatat.
-          </h1>
+          <h1 className="card_h1">Home Classes:</h1>
           <p className="card_p">
-            Enim irure ad tempor anim veniam non quis. Sit consequat mollit
-            culpa exercitation duis laborum ipsum esse duis labore mollit
-            voluptate sit exercitation. Ea proident dolor quis in est nulla
-            fugiat proident consectetur Lorem fugiat. Et eiusmod proident aute
-            velit aute consequat ex magna nisi nulla.
+            Experience the serenity of yoga in the familiar surroundings of your
+            home. Our expert instructors bring tailored sessions directly to
+            you, ensuring a practice that fits seamlessly into your lifestyle.
+            Whether you're a beginner or an experienced yogi, our home classes
+            cater to all levels, fostering a sense of peace and balance.
           </p>
         </div>{" "}
         <div className="mission_card">
           <img src="./IMG_3558.JPG" className="mission_img" alt="Card_Image" />
-          <h1 className="card_h1">
-            Voluptate incididunt consectetur ullamco ipsum cillum culpa amet
-            reprehenderit ex enim nulla cupidatat.
-          </h1>
+          <h1 className="card_h1">Meditation Classes:</h1>
           <p className="card_p">
-            Enim irure ad tempor anim veniam non quis. Sit consequat mollit
-            culpa exercitation duis laborum ipsum esse duis labore mollit
-            voluptate sit exercitation. Ea proident dolor quis in est nulla
-            fugiat proident consectetur Lorem fugiat. Et eiusmod proident aute
-            velit aute consequat ex magna nisi nulla.
+            Embark on a journey of inner peace with our meditation classes.
+            Guided by experienced meditation practitioners, these sessions offer
+            a sanctuary for your mind. Learn techniques to cultivate mindfulness
+            and reduce stress, promoting a calm and centered life. Join us in
+            creating moments of stillness amidst life's demands
           </p>
         </div>
       </div>

@@ -24,41 +24,22 @@ const Yoga = () => {
           </p>
           <div className="class-time">
             <div className="time">
-              <img src="./guruG.jpg" alt="class_Image" />
-              <h1>Medication Classes</h1>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
+              <img src="./Mindfulness-bro.svg" alt="class_Image" />
+              <h2>Yoga Classes</h2>
             </div>
             <div className="time">
-              <img src="./guruG.jpg" alt="class_Image" />
-              <h1>Medication Classes</h1>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
+              <img src="./Peace of mind-amico.svg" alt="class_Image" />
+              <h2>Medication Classes</h2>
             </div>
             <div className="time">
-              <img src="./guruG.jpg" alt="class_Image" />
-              <h1>Medication Classes</h1>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
+              <img src="./Yoga with face masks-pana.svg" alt="class_Image" />
+              <h2 className="timeh2">Pilate Classes</h2>
             </div>
-            <div className="time">
+            {/* <div className="time">
               <img src="./guruG.jpg" alt="class_Image" />
-              <h1>Medication Classes</h1>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-              <p>(GMT+5) Morning 6:00 AM</p>
-            </div>
+              <h2>Medication Classes</h2>
+              <button>Contact Us</button>
+            </div> */}
           </div>
         </div>
       </div>

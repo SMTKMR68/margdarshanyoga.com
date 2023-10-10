@@ -33,8 +33,15 @@
 .class-time{
 display: flex;
 flex-wrap: wrap;
-font-size: 12px;
-font-weight: 300;
 gap:10px;
+align-items: baseline;
+;
+}
+.time{
+    margin:10px 10px;
+    flex:250px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    
 }
 

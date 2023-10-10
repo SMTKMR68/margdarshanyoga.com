@@ -3,7 +3,11 @@ import React from "react";
 const NotFound = () => {
   return (
     <div>
-      <h1>Welcome to NotFound page </h1>
+      <img
+        src="./notfound.jpg"
+        alt="NOT FOUND"
+        style={{ width: "80%", height: "80%" }}
+      />
     </div>
   );
 };

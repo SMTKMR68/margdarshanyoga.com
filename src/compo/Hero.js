@@ -10,9 +10,9 @@ const Hero = () => {
           Discover inner peace and vitality through yoga and meditation. Join
           our classes today.
         </p>
-        <a href="#">
+        <span>
           <button>Explore Classes</button>
-        </a>
+        </span>
       </div>
     </>
   );
